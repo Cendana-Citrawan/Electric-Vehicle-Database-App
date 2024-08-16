@@ -1,0 +1,104 @@
+Brand,Model,AccelSec,TopSpeed_KmH,Range_Km,Efficiency_WhKm,FastCharge_KmH,RapidCharge,PowerTrain,PlugType,BodyStyle,Seats,car_id,car_image
+Tesla,Model 3 Long Range Dual Motor,4.6,233,450,161,940,Yes,AWD,Type 2 CCS,Sedan,5,1,sources/dataset/car_image_resize/Tesla.jpg
+Volkswagen,ID.3 Pure,10.0,160,270,167,250,Yes,RWD,Type 2 CCS,Hatchback,5,2,sources/dataset/car_image_resize/Volkswagen.jpg
+Polestar,2,4.7,210,400,181,620,Yes,AWD,Type 2 CCS,Liftback,5,3,sources/dataset/car_image_resize/Polestar.jpg
+BMW,iX3 ,6.8,180,360,206,560,Yes,RWD,Type 2 CCS,SUV,5,4,sources/dataset/car_image_resize/BMW.jpg
+Honda,e ,9.5,145,170,168,190,Yes,RWD,Type 2 CCS,Hatchback,4,5,sources/dataset/car_image_resize/Honda.jpg
+Lucid,Air ,2.8,250,610,180,620,Yes,AWD,Type 2 CCS,Sedan,5,6,sources/dataset/car_image_resize/Lucid.jpg
+Volkswagen,e-Golf ,9.6,150,190,168,220,Yes,FWD,Type 2 CCS,Hatchback,5,7,sources/dataset/car_image_resize/Volkswagen.jpg
+Peugeot,e-208 ,8.1,150,275,164,420,Yes,FWD,Type 2 CCS,Hatchback,5,8,sources/dataset/car_image_resize/Peugeot.jpg
+Tesla,Model 3 Standard Range Plus,5.6,225,310,153,650,Yes,RWD,Type 2 CCS,Sedan,5,9,sources/dataset/car_image_resize/Tesla.jpg
+Audi,Q4 e-tron ,6.3,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,5,10,sources/dataset/car_image_resize/Audi.jpg
+Mercedes,EQC 400 4MATIC,5.1,180,370,216,440,Yes,AWD,Type 2 CCS,SUV,5,11,sources/dataset/car_image_resize/Mercedes.jpg
+Nissan,Leaf ,7.9,144,220,164,230,Yes,FWD,Type 2 CHAdeMO,Hatchback,5,12,sources/dataset/car_image_resize/Nissan.jpg
+Hyundai,Kona Electric 64 kWh,7.9,167,400,160,380,Yes,FWD,Type 2 CCS,SUV,5,13,sources/dataset/car_image_resize/Hyundai.jpg
+BMW,i4 ,4.0,200,450,178,650,Yes,RWD,Type 2 CCS,Sedan,5,14,sources/dataset/car_image_resize/BMW.jpg
+Hyundai,IONIQ Electric,9.7,165,250,153,210,Yes,FWD,Type 2 CCS,Liftback,5,15,sources/dataset/car_image_resize/Hyundai.jpg
+Volkswagen,ID.3 Pro S,7.9,160,440,175,590,Yes,RWD,Type 2 CCS,Hatchback,4,16,sources/dataset/car_image_resize/Volkswagen.jpg
+Porsche,Taycan Turbo S,2.8,260,375,223,780,Yes,AWD,Type 2 CCS,Sedan,4,17,sources/dataset/car_image_resize/Porsche.jpg
+Volkswagen,e-Up! ,11.9,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,4,18,sources/dataset/car_image_resize/Volkswagen.jpg
+MG,ZS EV,8.2,140,220,193,260,Yes,FWD,Type 2 CCS,SUV,5,19,sources/dataset/car_image_resize/MG.jpg
+Mini,Cooper SE ,7.3,150,185,156,260,Yes,FWD,Type 2 CCS,Hatchback,4,20,sources/dataset/car_image_resize/Mini.jpg
+Opel,Corsa-e ,8.1,150,275,164,420,Yes,FWD,Type 2 CCS,Hatchback,5,21,sources/dataset/car_image_resize/Opel.jpg
+Tesla,Model Y Long Range Dual Motor,5.1,217,425,171,930,Yes,AWD,Type 2 CCS,SUV,7,22,sources/dataset/car_image_resize/Tesla.jpg
+Skoda,Enyaq iV 50,10.0,160,290,179,230,Yes,RWD,Type 2 CCS,SUV,5,23,sources/dataset/car_image_resize/Skoda.jpg
+Audi,e-tron GT ,3.5,240,425,197,850,Yes,AWD,Type 2 CCS,Sedan,4,24,sources/dataset/car_image_resize/Audi.jpg
+Tesla,Model 3 Long Range Performance,3.4,261,435,167,910,Yes,AWD,Type 2 CCS,Sedan,5,25,sources/dataset/car_image_resize/Tesla.jpg
+Volkswagen,ID.4 ,7.5,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,5,26,sources/dataset/car_image_resize/Volkswagen.jpg
+Volkswagen,ID.3 Pro,9.0,160,350,166,490,Yes,RWD,Type 2 CCS,Hatchback,5,27,sources/dataset/car_image_resize/Volkswagen.jpg
+Volvo,XC40 P8 AWD Recharge,4.9,180,375,200,470,Yes,AWD,Type 2 CCS,SUV,5,28,sources/dataset/car_image_resize/Volvo.jpg
+BMW,i3 120 Ah,7.3,150,235,161,270,Yes,RWD,Type 2 CCS,Hatchback,4,29,sources/dataset/car_image_resize/BMW.jpg
+Peugeot,e-2008 SUV ,8.5,150,250,180,380,Yes,FWD,Type 2 CCS,SUV,5,30,sources/dataset/car_image_resize/Peugeot.jpg
+Audi,e-tron 50 quattro,6.8,190,280,231,450,Yes,AWD,Type 2 CCS,SUV,5,31,sources/dataset/car_image_resize/Audi.jpg
+Kia,e-Niro 64 kWh,7.8,167,370,173,350,Yes,FWD,Type 2 CCS,SUV,5,32,sources/dataset/car_image_resize/Kia.jpg
+Renault,Zoe ZE50 R110,11.4,135,315,165,230,Yes,FWD,Type 2 CCS,Hatchback,5,33,sources/dataset/car_image_resize/Renault.jpg
+Tesla,Cybertruck Tri Motor,3.0,210,750,267,710,Yes,AWD,Type 2 CCS,Pickup,6,34,sources/dataset/car_image_resize/Tesla.jpg
+Mazda,MX-30 ,9.0,150,180,178,240,Yes,FWD,Type 2 CCS,SUV,5,35,sources/dataset/car_image_resize/Mazda.jpg
+Nissan,Leaf e+,7.3,157,325,172,390,Yes,FWD,Type 2 CHAdeMO,Hatchback,5,36,sources/dataset/car_image_resize/Nissan.jpg
+Lexus,UX 300e,7.5,160,270,193,190,Yes,FWD,Type 2 CHAdeMO,SUV,5,37,sources/dataset/car_image_resize/Lexus.jpg
+CUPRA,el-Born ,6.5,160,425,181,570,Yes,RWD,Type 2 CCS,Hatchback,4,38,sources/dataset/car_image_resize/CUPRA.jpg
+Renault,Zoe ZE50 R135,9.5,140,310,168,230,Yes,FWD,Type 2 CCS,Hatchback,5,39,sources/dataset/car_image_resize/Renault.jpg
+Mercedes,EQA ,5.0,200,350,171,440,Yes,AWD,Type 2 CCS,SUV,5,40,sources/dataset/car_image_resize/Mercedes.jpg
+Tesla,Model S Long Range,3.8,250,515,184,560,Yes,AWD,Type 2,Liftback,5,41,sources/dataset/car_image_resize/Tesla.jpg
+Hyundai,Kona Electric 39 kWh,9.9,155,255,154,210,Yes,FWD,Type 2 CCS,SUV,5,42,sources/dataset/car_image_resize/Hyundai.jpg
+Audi,e-tron Sportback 55 quattro,5.7,200,380,228,610,Yes,AWD,Type 2 CCS,SUV,5,43,sources/dataset/car_image_resize/Audi.jpg
+Skoda,CITIGOe iV ,12.3,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,4,44,sources/dataset/car_image_resize/Skoda.jpg
+SEAT,Mii Electric ,12.3,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,4,45,sources/dataset/car_image_resize/SEAT.jpg
+Kia,e-Soul 64 kWh,7.9,167,365,175,340,Yes,FWD,Type 2 CCS,SUV,5,46,sources/dataset/car_image_resize/Kia.jpg
+Opel,Ampera-e ,7.3,150,335,173,210,Yes,FWD,Type 2 CCS,MPV,5,47,sources/dataset/car_image_resize/Opel.jpg
+Porsche,Taycan 4S,4.0,250,365,195,730,Yes,AWD,Type 2 CCS,Sedan,4,48,sources/dataset/car_image_resize/Porsche.jpg
+Lightyear,One ,10.0,150,575,104,540,Yes,AWD,Type 2 CCS,Liftback,5,49,sources/dataset/car_image_resize/Lightyear.jpg
+Aiways,U5 ,9.0,150,335,188,350,Yes,FWD,Type 2 CCS,SUV,5,50,sources/dataset/car_image_resize/Aiways.jpg
+Audi,e-tron 55 quattro,5.7,200,365,237,590,Yes,AWD,Type 2 CCS,SUV,5,51,sources/dataset/car_image_resize/Audi.jpg
+Tesla,Roadster ,2.1,410,970,206,920,Yes,AWD,Type 2 CCS,Cabrio,4,52,sources/dataset/car_image_resize/Tesla.jpg
+Opel,Mokka-e ,8.5,150,255,176,390,Yes,FWD,Type 2 CCS,SUV,5,53,sources/dataset/car_image_resize/Opel.jpg
+Skoda,Enyaq iV 80,8.8,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,5,54,sources/dataset/car_image_resize/Skoda.jpg
+Tesla,Model X Long Range,4.6,250,450,211,490,Yes,AWD,Type 2,SUV,7,55,sources/dataset/car_image_resize/Tesla.jpg
+Honda,e Advance,8.3,145,170,168,190,Yes,RWD,Type 2 CCS,Hatchback,4,56,sources/dataset/car_image_resize/Honda.jpg
+DS,3 Crossback E-Tense,8.7,150,250,180,380,Yes,FWD,Type 2 CCS,SUV,5,57,sources/dataset/car_image_resize/DS.jpg
+Renault,Twingo ZE,12.6,135,130,164,-,No,RWD,Type 2,Hatchback,4,58,sources/dataset/car_image_resize/Renault.jpg
+Citroen,e-C4 ,9.7,150,250,180,380,Yes,FWD,Type 2 CCS,SUV,5,59,sources/dataset/car_image_resize/Citroen.jpg
+Tesla,Model S Performance,2.5,261,505,188,550,Yes,AWD,Type 2,Liftback,5,60,sources/dataset/car_image_resize/Tesla.jpg
+Renault,Zoe ZE40 R110,11.4,135,255,161,230,Yes,FWD,Type 2 CCS,Hatchback,5,61,sources/dataset/car_image_resize/Renault.jpg
+Tesla,Model Y Long Range Performance,3.7,241,410,177,900,Yes,AWD,Type 2 CCS,SUV,7,62,sources/dataset/car_image_resize/Tesla.jpg
+Nissan,Ariya 87kWh,7.6,160,440,198,520,Yes,FWD,Type 2 CCS,Hatchback,5,63,sources/dataset/car_image_resize/Nissan.jpg
+Jaguar,I-Pace ,4.8,200,365,232,340,Yes,AWD,Type 2 CCS,SUV,5,64,sources/dataset/car_image_resize/Jaguar.jpg
+Ford,Mustang Mach-E ER RWD,7.0,180,450,200,430,Yes,RWD,Type 2 CCS,SUV,5,65,sources/dataset/car_image_resize/Ford.jpg
+Porsche,Taycan 4S Plus,4.0,250,425,197,890,Yes,AWD,Type 2 CCS,Sedan,4,66,sources/dataset/car_image_resize/Porsche.jpg
+Nissan,e-NV200 Evalia ,14.0,123,190,200,190,Yes,FWD,Type 1 CHAdeMO,SPV,7,67,sources/dataset/car_image_resize/Nissan.jpg
+Tesla,Cybertruck Dual Motor,5.0,190,460,261,710,Yes,AWD,Type 2 CCS,Pickup,6,68,sources/dataset/car_image_resize/Tesla.jpg
+Renault,Kangoo Maxi ZE 33,22.4,130,160,194,-,No,FWD,Type 2,SPV,5,69,sources/dataset/car_image_resize/Renault.jpg
+Ford,Mustang Mach-E ER AWD,6.0,180,430,209,410,Yes,AWD,Type 2 CCS,SUV,5,70,sources/dataset/car_image_resize/Ford.jpg
+BMW,i3s 120 Ah,6.9,160,230,165,260,Yes,RWD,Type 2 CCS,Hatchback,4,71,sources/dataset/car_image_resize/BMW.jpg
+Skoda,Enyaq iV 80X,7.0,160,400,193,540,Yes,AWD,Type 2 CCS,SUV,5,72,sources/dataset/car_image_resize/Skoda.jpg
+Porsche,Taycan Cross Turismo ,3.5,250,385,217,770,Yes,AWD,Type 2 CCS,Station,4,73,sources/dataset/car_image_resize/Porsche.jpg
+Byton,M-Byte 95 kWh 4WD,5.5,190,390,244,460,Yes,AWD,Type 2 CCS,SUV,5,74,sources/dataset/car_image_resize/Byton.jpg
+Sono,Sion ,9.0,140,225,156,270,Yes,FWD,Type 2 CCS,Hatchback,5,75,sources/dataset/car_image_resize/Sono.jpg
+Kia,e-Niro 39 kWh,9.8,155,235,167,230,Yes,FWD,Type 2 CCS,SUV,5,76,sources/dataset/car_image_resize/Kia.jpg
+Audi,Q4 Sportback e-tron ,6.3,180,410,188,550,Yes,AWD,Type 2 CCS,SUV,5,77,sources/dataset/car_image_resize/Audi.jpg
+Smart,EQ forfour ,12.7,130,95,176,-,No,RWD,Type 2,Hatchback,4,78,sources/dataset/car_image_resize/Smart.jpg
+Ford,Mustang Mach-E SR AWD,6.0,180,340,206,360,Yes,AWD,Type 2 CCS,SUV,5,79,sources/dataset/car_image_resize/Ford.jpg
+Porsche,Taycan Turbo,3.2,260,390,215,810,Yes,AWD,Type 2 CCS,Sedan,4,80,sources/dataset/car_image_resize/Porsche.jpg
+Volkswagen,ID.3 1st,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,5,81,sources/dataset/car_image_resize/Volkswagen.jpg
+Tesla,Model X Performance,2.8,250,440,216,480,Yes,AWD,Type 2,SUV,7,82,sources/dataset/car_image_resize/Tesla.jpg
+Smart,EQ fortwo coupe,11.6,130,100,167,-,No,RWD,Type 2,Hatchback,2,83,sources/dataset/car_image_resize/Smart.jpg
+Ford,Mustang Mach-E SR RWD,6.6,180,360,194,380,Yes,RWD,Type 2 CCS,SUV,5,84,sources/dataset/car_image_resize/Ford.jpg
+Mercedes,EQV 300 Long,10.0,140,330,273,290,Yes,FWD,Type 2 CCS,SPV,7,85,sources/dataset/car_image_resize/Mercedes.jpg
+Fiat,500e Hatchback,9.0,150,250,168,330,Yes,FWD,Type 2 CCS,Hatchback,4,86,sources/dataset/car_image_resize/Fiat.jpg
+Tesla,Cybertruck Single Motor,7.0,180,390,256,740,Yes,RWD,Type 2 CCS,Pickup,6,87,sources/dataset/car_image_resize/Tesla.jpg
+Audi,e-tron Sportback 50 quattro,6.8,190,295,219,470,Yes,AWD,Type 2 CCS,SUV,5,88,sources/dataset/car_image_resize/Audi.jpg
+Skoda,Enyaq iV vRS,6.2,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,5,89,sources/dataset/car_image_resize/Skoda.jpg
+Skoda,Enyaq iV 60,9.0,160,320,181,440,Yes,RWD,Type 2 CCS,SUV,5,90,sources/dataset/car_image_resize/Skoda.jpg
+Audi,e-tron S 55 quattro,4.5,210,320,270,510,Yes,AWD,Type 2 CCS,SUV,5,91,sources/dataset/car_image_resize/Audi.jpg
+Smart,EQ fortwo cabrio,11.9,130,95,176,-,No,RWD,Type 2,Cabrio,2,92,sources/dataset/car_image_resize/Smart.jpg
+Kia,e-Soul 64 kWh,7.9,167,365,175,320,Yes,FWD,Type 2 CCS,SUV,5,93,sources/dataset/car_image_resize/Kia.jpg
+Nissan,Ariya e-4ORCE 87kWh,5.7,200,420,207,500,Yes,AWD,Type 2 CCS,Hatchback,5,94,sources/dataset/car_image_resize/Nissan.jpg
+Fiat,500e Convertible,9.0,150,250,168,330,Yes,FWD,Type 2 CCS,Cabrio,4,95,sources/dataset/car_image_resize/Fiat.jpg
+Volkswagen,ID.3 Pro Performance,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,5,96,sources/dataset/car_image_resize/Volkswagen.jpg
+Kia,e-Soul 39 kWh,9.9,157,230,170,220,Yes,FWD,Type 2 CCS,SUV,5,97,sources/dataset/car_image_resize/Kia.jpg
+Byton,M-Byte 72 kWh 2WD,7.5,190,325,222,420,Yes,RWD,Type 2 CCS,SUV,5,98,sources/dataset/car_image_resize/Byton.jpg
+Nissan,Ariya 63kWh,7.5,160,330,191,440,Yes,FWD,Type 2 CCS,Hatchback,5,99,sources/dataset/car_image_resize/Nissan.jpg
+Audi,e-tron S Sportback 55 quattro,4.5,210,335,258,540,Yes,AWD,Type 2 CCS,SUV,5,100,sources/dataset/car_image_resize/Audi.jpg
+Nissan,Ariya e-4ORCE 63kWh,5.9,200,325,194,440,Yes,AWD,Type 2 CCS,Hatchback,5,101,sources/dataset/car_image_resize/Nissan.jpg
+Nissan,Ariya e-4ORCE 87kWh Performance,5.1,200,375,232,450,Yes,AWD,Type 2 CCS,Hatchback,5,102,sources/dataset/car_image_resize/Nissan.jpg
+Byton,M-Byte 95 kWh 2WD,7.5,190,400,238,480,Yes,AWD,Type 2 CCS,SUV,5,103,sources/dataset/car_image_resize/Byton.jpg
